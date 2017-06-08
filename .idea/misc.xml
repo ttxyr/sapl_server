@@ -16,5 +16,8 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6.1 virtualenv at ~/Dropbox/source/sapl_server/python3.6" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.10 virtualenv at ~/Dropbox/source/sapl_server/python2.7" project-jdk-type="Python SDK" />
+  <component name="PythonCompatibilityInspectionAdvertiser">
+    <option name="version" value="2" />
+  </component>
 </project>

@@ -1,4 +1,4 @@
-#!/Users/qiaofengliang/Dropbox/source/sapl_server/python3.6/bin/python
+#!/Users/qiaofengliang/Dropbox/source/sapl_server/python2.7/bin/python
 from django.core import management
 
 if __name__ == "__main__":

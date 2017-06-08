@@ -1,0 +1,3 @@
+[submodule "sapl_server/extern_app/xadmin"]
+	path = sapl_server/extern_app/xadmin
+	url = git@github.com:sshwsfc/xadmin.git
